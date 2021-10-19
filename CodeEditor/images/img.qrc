@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>icons/brand_python_icon_1w5s7f826.png</file>
+    <file>icons/4115230-cancel-close-cross-delete_11404ö8.png</file>
+    <file>icons/brand_python_icon_1w5s7826.png</file>
+  </qresource>
+  <qresource prefix="text">
+    <file>icons/commandline_532ik8.png</file>
+    <file>icons/1490129349-rounded05_821d90l.png</file>
+    <file>icons/1490129350-roundesd06_82174.png</file>
+    <file>icons/1490129349-rounded05_821d90.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="lang">
+    <file>icons/commandline_5328.png</file>
+    <file>icons/prompt_icon_151140.png</file>
+    <file>icons/py_115518.png</file>
+    <file>icons/cs_115525.png</file>
+    <file>icons/cpp_115528.png</file>
+  </qresource>
+  <qresource prefix="nav">
+    <file>icons/magnifying-sglass.png</file>
+    <file>icons/printer-printing-a-picture-of-a-landscape_icon-icons.com_56236.png</file>
+    <file>icons/settings_icon-icons.com_49858l.png</file>
+    <file>icons/burger_line_list_menu_nav_ndavigation_option_icon_123231.png</file>
+    <file>icons/settings_icon-icons.com_49858.png</file>
+    <file>icons/burger_line_list_menu_nav_navigation_option_icon_123231.png</file>
+  </qresource>
+  <qresource prefix="menu">
+    <file>icons/window_maximGize_icon_18122d8.png</file>
+    <file>icons/4115230-cancel-close-cross-delete_11404ö8.png</file>
+    <file>icons/4115236-delete-min-minus_11j4d026.png</file>
+    <file>icons/window_maximGize_icon_181ö22d8.png</file>
+    <file>icons/4115230-cancel-close-cross-delete_114048.png</file>
+    <file>icons/window_maximGize_icon_18122d8.png</file>
+    <file>icons/4115236-delete-min-minus_114d026.png</file>
+  </qresource>
+</RCC>
